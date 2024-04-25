@@ -2,8 +2,6 @@
 <h3 align="center">I'm a coding enthusiast and a learner</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-walking-cat-17mitwkziw2xzxxk.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dg042567" alt="dg042567" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/davidgeorge1802" target="blank"><img src="https://img.shields.io/twitter/follow/davidgeorge1802?logo=twitter&style=for-the-badge" alt="davidgeorge1802" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce music app that also fingerprints audio**
@@ -36,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dg042567&show_icons=true&locale=en&layout=compact" alt="dg042567" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dg042567&show_icons=true&locale=en" alt="dg042567" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dg042567&" alt="dg042567" /></p>
