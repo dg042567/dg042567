@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David George</h1>
-<h3 align="center">I'm a coding enthusiast and a learner</h3>
+<h3 align="center">I'm a coding and music enthusiast!!</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-walking-cat-17mitwkziw2xzxxk.gif">
 
 <p align="left"> <a href="https://twitter.com/davidgeorge1802" target="blank"><img src="https://img.shields.io/twitter/follow/davidgeorge1802?logo=twitter&style=for-the-badge" alt="davidgeorge1802" /></a> </p>
