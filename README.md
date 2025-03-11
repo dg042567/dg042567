@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I play guitar!**
 
-- <img align="right" height="150" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif?cid=ecf05e4750bx39jkjjqxsd3svsqo72rqrerhisal4dqm15dq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+- <img align="right" height="300" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif?cid=ecf05e4750bx39jkjjqxsd3svsqo72rqrerhisal4dqm15dq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 
 <h3 align="left">Connect with me:</h3>
