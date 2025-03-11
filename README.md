@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **I play guitar!**
 
+- <img align="right" height="150" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif?cid=ecf05e4750bx39jkjjqxsd3svsqo72rqrerhisal4dqm15dq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dg042567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dg042567" height="30" width="40" /></a>
